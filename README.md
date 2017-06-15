@@ -1,2 +1,2 @@
 # hello-world
-a hello word program
+A  combination of all hello world programs on any language
